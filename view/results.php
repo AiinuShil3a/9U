@@ -25,7 +25,7 @@
             <thead>
                 <tr>
                     <th>Team</th>
-                    <th>Univercity</th>
+                    <th>University</th>
                     <th>Score</th>
                     <th>Match_Date</th>
                 </tr>
